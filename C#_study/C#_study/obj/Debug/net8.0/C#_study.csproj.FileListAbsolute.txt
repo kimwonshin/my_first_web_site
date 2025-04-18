@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.AssemblyInfo.cs
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\bin\Debug\net8.0\C#_study.exe
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\bin\Debug\net8.0\C#_study.deps.json
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\bin\Debug\net8.0\C#_study.runtimeconfig.json
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\bin\Debug\net8.0\C#_study.dll
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\bin\Debug\net8.0\C#_study.pdb
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.dll
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\refint\C#_study.dll
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.pdb
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\C#_study.genruntimeconfig.cache
+C:\Users\user\OneDrive\바탕 화면\신유원\실습\vs\C#_study\C#_study\obj\Debug\net8.0\ref\C#_study.dll
